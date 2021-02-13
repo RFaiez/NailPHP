@@ -1,5 +1,5 @@
+![Logo](./public/logo.png)
 # NailPHP
-![Logo](./public/path/to/logo.png)
 
 NailPHP is an MVC PHP framework for web and console applications. Released under the MIT license.
 
