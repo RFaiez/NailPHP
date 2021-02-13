@@ -1,0 +1,18 @@
+<?php
+require __DIR__.'/../vendor/autoload.php';
+require __DIR__.'/../public/bootstrap.php';
+require __DIR__.'/commandList.php';
+
+use Symfony\Component\Console\Application;
+
+$application = new Application();
+
+foreach ($commands as $class) {
+    if (!class_exists($class)) {
+        throw new RuntimeException(sprintf('Class %s does not exist', $class));
+    }
+    $command = new $class();
+    $application->add($command);
+}
+
+$application->run();
