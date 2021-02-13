@@ -1,5 +1,7 @@
 {
     "name": "rfaiez/nailphp",
+    "description" : "NailPHP micro framework",
+    "license" : "MIT",
     "require": {
         "vlucas/phpdotenv": "^5.2",
         "symfony/console": "^5.2",
