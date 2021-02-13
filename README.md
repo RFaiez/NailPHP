@@ -36,6 +36,9 @@ NailPHP is currently extended with the following plugins. Instructions on how to
 | smarty | https://github.com/smarty-php/smarty/blob/master/README.md |
 | Symfony console | https://github.com/symfony/console/blob/5.x/README.md |
 | phpdotenv | https://github.com/vlucas/phpdotenv/blob/master/README.md |
+| NailPHP Core | https://github.com/RFaiez/Framework_Core/blob/master/README.md |
+
+rfaiez/framework_core
 
 
 ### Development

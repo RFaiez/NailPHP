@@ -1,5 +1,5 @@
 {
-    "name": "faiez/php-architecture",
+    "name": "rfaiez/nailphp",
     "require": {
         "vlucas/phpdotenv": "^5.2",
         "symfony/console": "^5.2",
@@ -9,7 +9,7 @@
         "anlutro/form": "^0.3.14",
         "smarty/smarty": "~3.1",
         "doctrine/annotations": "^1.11",
-        "rfaiez/framework_core": "*",
+        "rfaiez/nailphp_core": "*",
         "nikic/fast-route": "^1.3"
     },
     "autoload": {
