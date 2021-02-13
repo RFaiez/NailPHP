@@ -38,8 +38,6 @@ NailPHP is currently extended with the following plugins. Instructions on how to
 | phpdotenv | https://github.com/vlucas/phpdotenv/blob/master/README.md |
 | NailPHP Core | https://github.com/RFaiez/Framework_Core/blob/master/README.md |
 
-rfaiez/framework_core
-
 
 ### Development
 
